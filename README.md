@@ -38,15 +38,15 @@ Analysis for rural city types:
 
 Analysis for suburban city types:
 
-Total of 490 drivers with an average fare per driver of $39.50
-Total of 625 rides with an average fare per ride of $30.97
-Total fares earned was $19,356.33
+- Total of 490 drivers with an average fare per driver of $39.50
+- Total of 625 rides with an average fare per ride of $30.97
+- Total fares earned was $19,356.33
 
 Analysis for urban city types:
 
-Total of 2,405 drivers with an average fare per driver of $16.57
-Total of 1625 rides with an average fare per ride of $24.53
-Total fares earned was $39,854.38
+- Total of 2,405 drivers with an average fare per driver of $16.57
+- Total of 1625 rides with an average fare per ride of $24.53
+- Total fares earned was $39,854.38
 
 Total Fare by City Type
 
