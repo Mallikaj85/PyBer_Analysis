@@ -32,9 +32,9 @@ There is a description of the differences in ride-sharing data among the differe
 
 Analysis for rural city types:
 
-Total of 78 drivers with an average fare per driver of $55.49
-Total of 125 rides with an average fare per ride of $34.62
-Total fares earned was $4,327.93
+- Total of 78 drivers with an average fare per driver of $55.49
+- Total of 125 rides with an average fare per ride of $34.62
+- Total fares earned was $4,327.93
 
 Analysis for suburban city types:
 
